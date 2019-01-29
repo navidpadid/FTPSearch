@@ -24,9 +24,9 @@ navidmalek.blog.ir
        also the man page will be added too.
 
        usage:
-	 git clone https://github.com/navidpadid/FTPSearch.git
-	 chmod 755 ./FTPSearch.sh
-	 ./FTPSearch.sh
+            git clone https://github.com/navidpadid/FTPSearch.git
+            chmod 755 ./FTPSearch.sh
+            ./FTPSearch.sh
 
        man page:
-         man FTPSearch.sh
+            man FTPSearch.sh
