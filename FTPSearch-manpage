@@ -1,0 +1,30 @@
+.\" my man page code is:
+
+.TH man page  "07 Jan 2019" "man (page)" "FTPSearch"
+.SH NAME
+OS project \- FTP search engine
+.SH DESCRIPTION
+
+Welcome to FTPSearch!
+ 
+Simple search engine with REGEX support
+
+Well according to RFC959 FTP does not support search meaning you
+have to find your desired files all by yourself.
+As a computer programmer this is awful for us, so we have decided
+to implement a simple bash script program that is simply FTP
+client with search!
+
+FTPSearch = FTP IN TERMINAL + SEARCH SUPPORT
+
+There are ways that you can go on to be able to search in FTP as a file, therefore you must first make a shadow of FTP in your linux native filesystem. I will use curlftpfs inorder to mount the FTP in my /mnt/FTPSearch .
+
+.SH OPTIONS
+You can have cd, ls, exit, and search and clearup command in this code.
+You can know more about all these commands with help command.
+.SH TODO
+Add auto completion
+.SH Programmers
+Navid Malek and Tina Salehi
+navidmalekedu@gmail.com
+navidmalek.blog.ir
