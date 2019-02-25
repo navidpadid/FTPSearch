@@ -29,4 +29,4 @@ navidmalek.blog.ir
             ./FTPSearch.sh
 
        man page:
-            man FTPSearch.sh
+            man FTPSearch
