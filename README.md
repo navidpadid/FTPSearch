@@ -23,10 +23,11 @@ navidmalek.blog.ir
        after first run the program will be added to the /usr/bin applications and shell will recognize it from anywhere.
        also the man page will be added too.
 
-       usage:
+       usage ( first time ):
             git clone https://github.com/navidpadid/FTPSearch.git
             chmod 755 ./FTPSearch.sh
             ./FTPSearch.sh
-
+       usage:
+	    FTPSearch
        man page:
             man FTPSearch
