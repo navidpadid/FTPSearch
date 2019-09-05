@@ -30,7 +30,7 @@ usage ( first time ):
         chmod 755 ./FTPSearch.sh
         ./FTPSearch.sh
 	
-usage:
+usage ( second and later time ):
 
 	FTPSearch
 
