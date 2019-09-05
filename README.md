@@ -3,8 +3,10 @@
 
 Welcome to FTPSearch!
 
-designed for Linux by Navid Malek and Tina Salehi
+Designed for Linux by Navid Malek and Tina Salehi
+
 navidmalekedu@gmail.com
+
 navidmalek.blog.ir
 
 More info is [here!](http://navidmalek.blog.ir/1397/11/09/FTPSearch-purely-written-in-BASH) 
