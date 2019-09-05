@@ -7,6 +7,7 @@ designed for Linux by Navid Malek and Tina Salehi
 navidmalekedu@gmail.com
 navidmalek.blog.ir
 
+More info is [here!](http://navidmalek.blog.ir/1397/11/09/FTPSearch-purely-written-in-BASH) 
 
 **Tested OS: Linux - Ubuntu 16.04 and 18.04 with default BASH shell**
 
