@@ -6,7 +6,7 @@ Welcome to FTPSearch!
 designed for Linux by Navid Malek and Tina Salehi
 navidmalekedu@gmail.com
 navidmalek.blog.ir
-
+(*Tested in: Linux - Ubuntu 16.04 and 18.04**
 
 	
        Simple search engine with REGEX support
