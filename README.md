@@ -8,7 +8,7 @@ navidmalekedu@gmail.com
 navidmalek.blog.ir
 
 
-**Tested in: Linux - Ubuntu 16.04 and 18.04**
+**Tested OS: Linux - Ubuntu 16.04 and 18.04 with default BASH shell**
 
 	
        Simple search engine with REGEX support
